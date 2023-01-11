@@ -1,0 +1,352 @@
+body {
+    margin: 0px;
+  }
+  
+  nav {
+    position: relative;
+  }
+  
+  .nav {
+    list-style-type: none;
+    background-color: #c9c9c9;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 1.4em 1em 1em 1em;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    color: #4c00b0;
+  }
+  
+  button {
+    width: 80px;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+  }
+  
+  .in {
+    background-color: #000080;
+    color: white;
+  }
+  
+  .log {
+    background-color: white;
+    color: #000080;
+  }
+  
+  .dang {
+    height: 400px;
+    background-size: cover;
+    background-image: url('bookks.png');
+    background-repeat: no-repeat;
+    width:100%;
+  }
+  
+  .pel {
+    margin-left: 30px;
+  }
+  
+  .zero {
+    margin: 0px;
+    margin-left: 50px;
+    color: white;
+    font-family: Georgia, serif;
+  }
+  
+  #fag {
+    background-color: orchid;
+    color: black;
+    width: 20%;
+    justify-content: center;
+    font-size: 20px;
+  }
+  
+  .del {
+    height: 400px;
+    background: #200C6F;
+    background-repeat: no-repeat;
+    width:100%;
+    position: relative;
+  }
+  
+  .peg {
+    position: absolute;
+    top: 0%;
+    right:0%;
+    height: 100%;
+    width: 10%;
+  }
+  
+  .pil {
+    height: 80%;
+    margin-right: 30%;
+    border: none;
+    margin-bottom: 40%;
+  }
+  
+  .bip {
+    position: absolute;
+    left: 10%;
+    height: 90%;
+    margin-top: 8px;
+  }
+  
+  .pip {
+    background: pink;
+    margin: 0;
+  }
+  
+  .beg {
+    background-color: #FFFFFF;
+    margin-right: 3px;
+    margin-left: 3px;
+  }
+  
+  h3 {
+    margin: 0;
+    font-size: 30px;
+  }
+  
+  #far {
+    margin-left: 250px;
+  }
+  
+  .park {
+    font-family: sans-serif;
+  }
+  
+  .play {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .catalog {
+    width: 25%;
+    margin-right: 10px;
+    padding: 20px 16px 20px 16px;
+    display: inline-block;
+    background-color: #D3E0FF;
+    margin-top: -30%;
+  }
+  
+  #fah {
+    background-color: orchid;
+    color: black;
+    width: 20%;
+    justify-content: center;
+    font-size: 20px;
+  }
+  
+  .yet {
+    background-image: url('Rectangle\ 36.png');
+    width: 30%;
+    height: auto;
+    padding: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 50px;
+    margin-bottom: 10%;
+  }
+
+  #mon {
+    background-image: url('Rectangle\ 34.png');
+  }
+
+  #poll {
+    background-image: url('Rectangle\ 33.png');
+  }
+
+  #doll, #mon, #poll {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .align {
+    text-align: center;
+  }
+  
+  .yellow {
+    background-color: #200C6F;
+    color: white;
+    font-weight: 600;
+    width: 120px;
+    font-family: sans-serif;
+    border: none;
+  }
+  
+  .bap {
+    width: 15%;
+    margin-right: 10px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 30px;
+    box-shadow: 2px 1px #797474;
+    border-color: #797474;
+  }
+  
+  .hex, .park {
+    color: #797474;
+  }
+  
+  .hex, .pop {
+    font-size: 14px;
+  }
+  
+  #icon {
+    font-size: 30px;
+    color: #797474;
+  }
+  
+  .pop:hover, #icon:hover, .hex:hover {
+    color: #200C6F; 
+  }
+  
+  .free {
+    color: #200C6F;
+    text-align: center;
+  }
+  
+  .blue {
+    width: 25%;
+    margin-right: 10px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 30px;
+    box-shadow: 2px 1px #797474;
+    border-color: #797474;
+  }
+  
+  .blow {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+  }
+  
+  .run {
+    margin-left: 250px;
+  }
+  
+  
+  .glow {
+    margin-left: 300px;
+  }
+  
+  .dom, .pan {
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+  
+  #hep {
+    color: #200C6F;
+    font-size: 200%;
+  }
+  
+  hom {
+    width: 30%;
+    height: 20%;
+    background: pink;
+    background-size: cover;
+    
+  }
+  
+  push {
+    background-color: pink;
+    margin: 0;
+  }
+  
+  .green, .red {
+    display: inline-block;
+    color: #200C6F;
+    font-family: sans-serif;
+  }
+  
+  .red {
+    float: right;
+  }
+  
+  .put {
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  .good {
+    width: 25%;
+    height: 300px;
+    display: inline-block;
+    margin-left: 30px;
+    box-shadow: 2px 1px #797474;
+    border-color: #797474;
+  }  
+  
+  .know {
+    width: 100%;
+    height: 50%;
+    margin-top: -40%;
+  }
+  
+  .time {
+    margin-bottom: -30%;
+  }
+  
+  .clue, .time, .bab {
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+  
+  .con {
+    text-align: center;
+    color: #200C6F;
+    font-size: 50px;
+  }
+  
+  .peel {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .nut {
+    background-color: #FECE90;
+    margin: 0;
+  }
+  
+  .doc {
+    display: inline-block;
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+  .chat {
+    margin-left: 400px;
+  }
+  
+  .well {
+    color: #200C6F;
+    font-weight: 300;
+  }
+  
+  .shell {
+    margin-left: 600px;
+    padding: 25px;
+  }
+  
+  .must {
+    margin-left: 550px;
+    font-size: 30px;
+  }
+  
+  .pac {
+    margin-bottom: -5px;
+  }

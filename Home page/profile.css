@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+  }
+  
+  nav {
+    position: relative;
+    font-size: 20px;
+  }
+  
+  .nav {
+    list-style-type: none;
+    background-color: #c9c9c9;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 1.4em 1em 1em 1em;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .play {
+    background-color:  #200C6E;
+    margin: 0;
+  }
+  
+  .ref {
+    margin: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: white;
+  }
+  
+  a:hover {
+    color: #4c00b0;
+  }
+  
+  .bip {
+    position: absolute;
+    left: 10%;
+    height: 90%;
+    margin-top: 8px;
+  }
+  
+  .help {
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  #time {
+    float: right;
+  }
